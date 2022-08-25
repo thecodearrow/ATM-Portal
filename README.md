@@ -2,6 +2,10 @@
 
 A pet project to get familiar with Java Spring Boot (backend) and ReactJs (frontend)
 
+## Requirements
+
+![Requirements](/req.png?raw=true "Requirements") 
+
 ## Technologies- Java Springboot, Postgresql, React.Js
 
 ### Backend
